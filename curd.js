@@ -1,4 +1,4 @@
-
+//mysql模块调用语句
 var UserSQL = {
 	insert: 'INSERT INTO stickyNotes(content, uname) VALUES(?,?)',
 	delete: 'DELETE FROM stickyNotes WHERE id = ?',
