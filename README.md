@@ -6,3 +6,5 @@ mysql、node知识梳理
 什么是mysql
 
 mysql链接node
+
+node+express+mysql
