@@ -8,3 +8,5 @@ mysql、node知识梳理
 mysql链接node
 
 node+express+mysql
+
+mysql的curd
