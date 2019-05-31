@@ -21,6 +21,7 @@ Web 使用一种名为 HTTP(HyperText Transfer Protocol，超文本传输协议 
 ![image.png](https://upload-images.jianshu.io/upload_images/6828981-7524c9954d832f2d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 ### TCP/IP 协议族各层的作用如下。
+
 * 应用层
 应用层决定了向用户提供应用服务时通信的活动。
 TCP/IP 协议族内预存了各类通用的应用服务。比如，FTP(File Transfer Protocol，文件传输协议)和 DNS(Domain Name System，域名系统)服务就是其中两类。
