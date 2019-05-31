@@ -28,6 +28,7 @@ Web 使用一种名为 HTTP(HyperText Transfer Protocol，超文本传输协议 
 TCP/IP 协议族内预存了各类通用的应用服务。比如，FTP(File Transfer Protocol，文件传输协议)和 DNS(Domain Name System，域名系统)服务就是其中两类。
 HTTP 协议也处于该层。
 * 传输层
+
 传输层对上层应用层，提供处于网络连接中的两台计算机之间的数据传输。
 在传输层有两个性质不同的协议:TCP(Transmission Control Protocol，传输控制协议)和 UDP(User Data Protocol，用户数据报协议)。
 
